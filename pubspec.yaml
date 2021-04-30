@@ -20,7 +20,8 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - images/diamond.png
+#    - images/diamond.png Instead of specifying the name we can use alternative way -->
+    - images/
 
 # Remember: Every indent is two spaces i.e., if there are two spaces in the beginning of line of
 #  code then that code is the child of the code or indent written above it without any spaces in
