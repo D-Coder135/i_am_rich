@@ -22,3 +22,6 @@ flutter:
   assets:
     - images/diamond.png
 
+# Remember: Every indent is two spaces i.e., if there are two spaces in the beginning of line of
+#  code then that code is the child of the code or indent written above it without any spaces in
+#  the beginning.
